@@ -1,7 +1,5 @@
 # PinFlik – Pinterest Video Downloader
 
-![PinFlik Logo](assets/logo/logo.png)
-
 > A product documentation repository for **PinFlik**, a browser-based Pinterest media downloader focused on simple workflows, high-quality media retrieval, privacy-conscious use, and support for multiple Pinterest media formats.
 
 [![Website](https://img.shields.io/badge/Website-pinflik.com-blue)](https://www.pinflik.com/)
@@ -32,7 +30,6 @@
 - [Supported URL types](#supported-url-types)
 - [Who is PinFlik for?](#who-is-pinflik-for)
 - [Documentation](#documentation)
-- [Project status](#project-status)
 - [Why the source code is not public](#why-the-source-code-is-not-public)
 - [Disclaimer](#disclaimer)
 
@@ -302,8 +299,6 @@ It should not be used to bypass access controls, download private content, or in
 - [Privacy](docs/privacy.md)
 - [Content Responsibility](docs/content-responsibility.md)
 - [FAQ](docs/faq.md)
-
-## Project status
 
 ## Why the source code is not public
 
