@@ -2,11 +2,9 @@
 
 > A product documentation repository for **PinFlik**, a browser-based Pinterest media downloader focused on simple workflows, high-quality media retrieval, privacy-conscious use, and support for multiple Pinterest media formats.
 
-[![Website](https://img.shields.io/badge/Website-pinflik.com-blue)](https://www.pinflik.com/)
-[![Pinterest Downloader](https://img.shields.io/badge/Pinterest-Video%20Downloader-red)](https://www.pinflik.com/)
-[![Documentation](https://img.shields.io/badge/Repository-Documentation-lightgrey)](#documentation)
+[![Pinterest video Downloader](https://img.shields.io/badge/Pinterest-Video%20Downloader-red)](https://www.pinflik.com/)
 
-**Live product:** https://www.pinflik.com/
+**Website:** https://www.pinflik.com/
 
 > **Repository scope:** This repository documents the PinFlik product, its purpose, core features, user experience, quality standards, semantic search intent, and roadmap for downloading high-quality Pinterest videos, images, GIFs, Reels, and Idea Pins effortlessly.
 
